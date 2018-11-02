@@ -9,7 +9,7 @@ int main () {
     int prodotto =0;
     int quoziente =0;
     int resto=0;
-	int potenza=0;
+    int potenza=0;
     int a=0;
     int b=0;
 	char confermauscita=0;
