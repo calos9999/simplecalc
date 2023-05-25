@@ -1,2 +1,2 @@
-# simplecppcalc
-Simple C++ calculator
+# simplecalc
+Simple calculator
